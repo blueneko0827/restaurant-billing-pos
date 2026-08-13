@@ -279,7 +279,7 @@ To get started with the project:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/skniyajali/PoposRoom.git
+   git clone https://github.com/blueneko0827/PoposRoom.git
    ```
 2. Open the project in Android Studio
 3. Sync the project with Gradle files
